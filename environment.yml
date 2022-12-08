@@ -1,5 +1,0 @@
-name:sba22235-binder
-channels:
--conda-forge
-dependencies:
--python=3
